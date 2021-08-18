@@ -1,14 +1,14 @@
 ## Olá, eu sou um programador 🐘
 <div>
-  <a href="#"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucaslealdev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide=issues"/></a>
-  <a href="#"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslealdev&layout=compact&langs_count=4&theme=synthwave"/></a>
+  <a href="#"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucaslealdev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide=issues"/></a>
+  <a href="#"><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslealdev&layout=compact&langs_count=4&theme=synthwave"/></a>
 </div>
 
 ### Você deveria ver:
 
 <div>
-  <a href="https://github.com/lucaslealdev/musimals"><img height="140em" src="https://github-readme-stats.vercel.app/api/pin?username=lucaslealdev&repo=musimals&theme=synthwave"/></a>
-  <a href="https://github.com/lucaslealdev/CSSTrackr"><img height="140em" src="https://github-readme-stats.vercel.app/api/pin?username=lucaslealdev&repo=CSSTrackr&theme=synthwave"/></a>
+  <a href="https://github.com/lucaslealdev/musimals"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin?username=lucaslealdev&repo=musimals&theme=synthwave"/></a>
+  <a href="https://github.com/lucaslealdev/CSSTrackr"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin?username=lucaslealdev&repo=CSSTrackr&theme=synthwave"/></a>
 </div>
 <br>
 
