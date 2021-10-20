@@ -29,3 +29,6 @@
   <a href="https://www.linkedin.com/in/lucaslealsp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lucaslealdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23FF7E00?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+### Dicas do bruxo
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6856581849708331008/" target="_blank">⚫ Menu mobile sem javascript?</a>
