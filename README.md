@@ -7,7 +7,7 @@
 ### Você deveria ver:
 
 <div>
-  <a href="https://github.com/lucaslealdev/musimals"><img height="122em" src="https://github-readme-stats.vercel.app/api/pin?username=lucaslealdev&repo=musimals&theme=synthwave"/></a>
+  <a href="https://github.com/ellegantcss/ellegant"><img height="122em" src="https://github-readme-stats.vercel.app/api/pin?username=ellegantcss&repo=ellegant&theme=synthwave"/></a>
   <a href="https://github.com/lucaslealdev/CSSTrackr"><img height="122em" src="https://github-readme-stats.vercel.app/api/pin?username=lucaslealdev&repo=CSSTrackr&theme=synthwave"/></a>
 </div>
 <br>
