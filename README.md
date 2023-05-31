@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://github.com/ellegantcss/ellegant"><img height="122em" src="https://github-readme-stats.vercel.app/api/pin?username=ellegantcss&repo=ellegant&theme=synthwave"/></a>
-  <a href="https://github.com/lucaslealdev/CSSTrackr"><img height="122em" src="https://github-readme-stats.vercel.app/api/pin?username=lucaslealdev&repo=CSSTrackr&theme=synthwave"/></a>
+  <a href="https://github.com/coolfee/coolfee.github.io"><img height="122em" src="https://github-readme-stats.vercel.app/api/pin?username=coolfee&repo=coolfee.github.io&theme=synthwave"/></a>
 </div>
 <br>
 
@@ -29,6 +29,3 @@
   <a href="https://www.linkedin.com/in/lucaslealsp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lucaslealdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23FF7E00?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-### Dicas do bruxo
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:6856581849708331008/" target="_blank">⚫ Menu mobile sem javascript?</a>
